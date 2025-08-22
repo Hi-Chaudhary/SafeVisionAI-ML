@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+
+# Data (too large for GitHub)
+data/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS specific
+.DS_Store
+Thumbs.db
