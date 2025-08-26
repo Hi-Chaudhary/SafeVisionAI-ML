@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+#### HEAD
 "# SafeVisionAI-ML" 
 =======
 # SafeVisionAI-ML
