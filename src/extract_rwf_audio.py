@@ -2,8 +2,8 @@ import subprocess, json, csv
 from pathlib import Path
 from collections import Counter
 
-RWF = Path("RWF2000")
-OUT = Path("audio_out")
+RWF = Path(r"D:\SEM2\AML\SafeVisionAIML\Data\Video\rwf2000")
+OUT = Path(r"D:\SEM2\AML\SafeVisionAIML\Data\Audio\rwf2000extracted")
 MAP = {"Fight": "violent", "NonFight": "non_violent"}
 SPLITS = ["train", "val", "test"]
 
